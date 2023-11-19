@@ -1,5 +1,5 @@
 ---
-title: "Team XXX's Project"
+title: "Team XXX"
 sidebar: false 
 ---
 
