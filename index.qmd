@@ -11,13 +11,13 @@ This is our template.
 
 # Team Members
 
-1.  [Edin_Džeko](https://tr.wikipedia.org/wiki/Edin_D%C5%BEeko)
+1.  [Anderson Talisca](https://tr.wikipedia.org/wiki/Talisca)
 
-2.  [Dušan Tadić](https://tr.wikipedia.org/wiki/Du%C5%A1an_Tadi%C4%87)
+2.  [N'Golo Kanté](https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9)
 
-3.  [Frederico Rodrigues de Paula Santos](https://tr.wikipedia.org/wiki/Fred_(1993_do%C4%9Fumlu_futbolcu))
+3.  [Mattéo Guendouzi](https://en.wikipedia.org/wiki/Matt%C3%A9o_Guendouzi)
 
-4.  [Sebastian Szymański](https://tr.wikipedia.org/wiki/Sebastian_Szyma%C5%84ski)
+4.  [Marco Asensio](https://tr.wikipedia.org/wiki/Marco_Asensio)
 
 # Project Topic
 
